@@ -96,6 +96,11 @@ Here are the key screens of the Libro mobile application UI/UX design.
 ### 17. QR Code Coming Soon
 ![QR Code](screenshots/QR%20Code-Coming%20Soon.png)
 
+
+## 🎨 Figma Design
+
+[View Libro UI/UX Design on Figma](https://www.figma.com/design/S0PhSmlX7iCbB9c6lZ0McW/Libro-%E2%80%93-Library-Borrowing---Return-System?node-id=0-1&t=TdkSlVzPuAIQD6FO-1)
+
 ## 👩‍💻 Designed By
 
 Sanjna Rajwani
