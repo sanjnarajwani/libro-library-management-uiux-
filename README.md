@@ -90,15 +90,15 @@ Here are the key screens of the Libro mobile application UI/UX design.
 ### 15. Password Reset Successful
 ![Password Reset](screenshots/Password%20Reset%20link%20Successful.png)
 
-16. Registration Successful
+### 16. Registration Successful
 ![Registration Successful](screenshots/Registration%20Successful.png)
 
-17. QR Code Coming Soon
+### 17. QR Code Coming Soon
 ![QR Code](screenshots/QR%20Code-Coming%20Soon.png)
 
 
 
-🎨 Figma Design
+### 🎨 Figma Design
 
 Explore the complete Libro mobile application UI/UX design created in Figma.
 
