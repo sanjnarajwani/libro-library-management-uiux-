@@ -1,4 +1,3 @@
-
 # 📚 Libro – Library Borrowing & Return System
 
 ### A Mobile App UI/UX Design | Figma
@@ -41,6 +40,61 @@ The project includes:
 ## 🎯 Project Goal
 
 To create a user-friendly mobile library experience that simplifies book discovery, borrowing, and returning.
+
+## 📱 App Screenshots
+
+Here are the key screens of the Libro mobile application UI/UX design.
+
+### 1. Splash Screen
+![Splash Screen](screenshots/Splash%20Screen%201.png)
+
+### 2. Registration
+![Registration](screenshots/Registration.png)
+
+### 3. Member Login
+![Member Login](screenshots/Member%20Login.png)
+
+### 4. Member Dashboard
+![Member Dashboard](screenshots/Member%20Dashboard.png)
+
+### 5. Browse & Search Books
+![Browse and Search Books](screenshots/Browse%20%26%20Search%20Books.png)
+
+### 6. Search Book
+![Search Book](screenshots/Search%20Book.png)
+
+### 7. Borrowed Book Details
+![Borrowed Book Details](screenshots/Borrowed%20Book%20Details.png)
+
+### 8. Borrow Confirmation
+![Borrow Confirmation](screenshots/Borrow%20Confirmation.png)
+
+### 9. Borrow Successful
+![Borrow Successful](screenshots/Borrow%20Successful.png)
+
+### 10. Borrow History
+![Borrow History](screenshots/Borrow%20History.png)
+
+### 11. Request Extension
+![Request Extension](screenshots/Request%20Extension.png)
+
+### 12. Extension Confirmed
+![Extension Confirmed](screenshots/Extension%20Confirmed.png)
+
+### 13. Return Success
+![Return Success](screenshots/Return%20Success.png)
+
+### 14. Forget Password
+![Forget Password](screenshots/Forget%20Password.png)
+
+### 15. Password Reset Successful
+![Password Reset](screenshots/Password%20Reset%20link%20Successful.png)
+
+### 16. Registration Successful
+![Registration Successful](screenshots/Registration%20Successful.png)
+
+### 17. QR Code Coming Soon
+![QR Code](screenshots/QR%20Code-Coming%20Soon.png)
 
 ## 👩‍💻 Designed By
 
